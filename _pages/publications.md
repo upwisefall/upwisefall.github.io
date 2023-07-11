@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Working Papers**
-
+1. **Choo, S.**, Park, H., Jung, J., Flores, K., and Nam, C. S. (under revision). EEG data augmentation to improve classification performance of motor imagery BCI using conditional generative adversarial networks.
+1. Park, D., Park, H., Kim, S., **Choo, S.**, Nam, C. S., Lee, S., and Jung, J. (under revision). Spatio-temporal explanation of 3D-EEGNet for motor imagery EEG classification using permutation and saliency.
+1. **S. Choo**, Nam C. S., (submitted) "Effects of batch size and its strategy on generalizability of convolutional neural networks on motor imagery bci"
+1. **S. Choo**, et al. (in preparation) "Federated learning for classifying cancer pathology reports"
+1. **S. Choo**, et al. (in preparation) "Machine learning models for predicting pediatric anxiety from structured electronic health records"
+1. **S. Choo**, et al. (in preparation) "Overly optimistic prediction results of deep learning-based predictive models on structured electronic health records: the effects of batch size, learning rate, and class imbalance on the generalization performance"
+1. **S. Choo**, Nam C. S., (in preparation) "Generalized uncertainty-aware action advising for deep reinforcement learning"
 
 ## **International Journal Papers**
 The publications can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=X393_rsAAAAJ&view_op=list_works&sortby=pubdate).
@@ -43,13 +49,3 @@ The publications can also be found on [Google Scholar](https://scholar.google.co
 1. **Sanghyun Choo** and Hyunsoo Lee, “Relationship Modelling and Analysis between Hidden Layers with Different Hidden Nodes using Supervised Learning Method ”, Proceedings of 2015 the Fall Conference on Korea Institute of Industrial Engineering, pp. 1223-1246,Seoul, Korea, November 7, 2015. 
 1. **Sanghyun Choo** and Hyunsoo Lee, “Framework and Analysis of Human Activity Monitorin System using Class RBM”, Proceedings of 2015 the Fall Conference on Korea Institute of Intelligent Systems, pp.27-28, Choongju, Korea, October 17, 2015. 
 
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
