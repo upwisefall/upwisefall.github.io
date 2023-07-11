@@ -12,6 +12,7 @@ author_profile: true
 1. **S. Choo**, et al. (in preparation) "Machine learning models for predicting pediatric anxiety from structured electronic health records"
 1. **S. Choo**, et al. (in preparation) "Overly optimistic prediction results of deep learning-based predictive models on structured electronic health records: the effects of batch size, learning rate, and class imbalance on the generalization performance"
 1. **S. Choo**, Nam C. S., (in preparation) "Generalized uncertainty-aware action advising for deep reinforcement learning"
+1. 
 
 ## **International Journal Papers**
 The publications can also be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=X393_rsAAAAJ&view_op=list_works&sortby=pubdate).
